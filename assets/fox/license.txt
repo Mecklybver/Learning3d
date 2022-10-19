@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sonic Forces - Tails
+* source:	https://sketchfab.com/3d-models/sonic-forces-tails-f64882b6d767433da1b630df6f82fcd6
+* author:	blacktailsthefox (https://sketchfab.com/blacktailsthefox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sonic Forces - Tails" (https://sketchfab.com/3d-models/sonic-forces-tails-f64882b6d767433da1b630df6f82fcd6) by blacktailsthefox (https://sketchfab.com/blacktailsthefox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
